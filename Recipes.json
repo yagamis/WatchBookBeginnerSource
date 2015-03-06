@@ -1,0 +1,201 @@
+[
+  {
+    "name": "炖烤牛肋排",
+    "ingredients": [
+      {
+        "quantity": "1块",
+        "name": " 烤牛肋排",
+        "type": "Meat"
+      },
+      {
+        "quantity": "1包",
+        "name": "卤肉汁",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1包",
+        "name": "意大利混合沙拉",
+        "type": "Condiments"
+      },
+      {
+        "quantity": "1包",
+        "name": "牧场沙拉",
+        "type": "Condiments"
+      },
+      {
+        "quantity": "半杯",
+        "name": "水",
+        "type": "Drinks"
+      }
+    ],
+    "steps": [
+      "把牛肋排放入炖锅.",
+      "把调料放入碗里混合均匀浇在牛肋骨肉上.",
+      "肉周围放一点水.",
+      "小火烤 7-9 小时."
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      420
+    ],
+    "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+    "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
+  },
+ 
+  {
+    "name": "巅峰之夜披萨",
+    "ingredients": [
+      {
+        "quantity": "5小勺",
+        "name": "酵母",
+        "type": "Baking"
+      },
+      {
+        "quantity": "5杯",
+        "name": "面粉",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2大勺",
+        "name": "糖",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2小勺",
+        "name": "盐",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2杯",
+        "name": "热水",
+        "type": "Misc"
+      },
+      {
+        "quantity": "4大勺",
+        "name": "色拉油",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1/4杯",
+        "name": "披萨酱",
+        "type": "Misc"
+      },
+      {
+        "quantity": "3/4杯",
+        "name": "奶酪起司",
+        "type": "Dairy"
+      }
+    ],
+    "steps": [
+      "把热水和酵母加入一个大碗中静置15分钟.",
+      "把油，糖，盐和面粉混合静置1小时.",
+      "把面团揉好摊平在平底锅.",
+      "均匀洒上披萨酱和奶酪起司.",
+      "加上其他你爱吃的配料上去（比如搞个夏威夷风情水果披萨，哈哈）.",
+      "200度烤15分钟.",
+      "酸爽开吃!"
+    ],
+    "timers": [
+      15,
+      60,
+      0,
+      0,
+      0,
+      15,
+      0
+    ],
+    "imageURL": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg"
+  },
+  
+  {
+    "name": "沙拉咖喱鸡",
+    "ingredients": [
+      {
+        "quantity": "3块",
+        "name": "去皮去骨鸡胸肉（纵向切半）",
+        "type": "Meat"
+      },
+      {
+        "quantity": "半杯",
+        "name": "蛋黄酱",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1勺",
+        "name": "柠檬皮",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1 勺 ",
+        "name": "柠檬汁",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1 杯半",
+        "name": "咖喱粉",
+        "type": "Baking"
+      },
+      {
+        "quantity": "1/4勺",
+        "name": "盐",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2个",
+        "name": "熟芒果（切块）",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1/4杯",
+        "name": "草莓汁",
+        "type": "Produce"
+      },
+      {
+        "quantity": "2根",
+        "name": "小葱（切片）",
+        "type": "Produce"
+      },
+      {
+        "quantity": "1个",
+        "name": "芹菜茎（切碎）",
+        "type": "Produce"
+      },
+      {
+        "quantity": "6片",
+        "name": "波士顿生菜",
+        "type": "Produce"
+      },
+      {
+        "quantity": "6块",
+        "name": "英式松饼（现烤）",
+        "type": "Misc"
+      }
+    ],
+    "steps": [
+      "把鸡肉排在一个大锅里.",
+      "加水至刚好盖住鸡肉.",
+      "煮滚到中高温度.",
+      "翻转鸡，减少热量中，小火煮至熟，约6分钟.",
+      "放凉.",
+      "把蛋黄酱，柠檬皮和汁，咖喱，盐在大碗里搅拌均匀.",
+      "用2个叉子把鸡肉切丝，再倒入混合的蛋黄酱和芒果，草莓汁，葱，芹菜.",
+      "把松饼放在生菜中",
+      "最上面放三明治"
+    ],
+    "timers": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
+    "originalURL": "http://www.chatelaine.com/recipe/stovetop-cooking-method/curried-chicken-salad/"
+  }
+]
